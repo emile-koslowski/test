@@ -1,0 +1,147 @@
+
+SHEETS
+{"qInfo":{"qId":"BMTPUFE","qType":"sheet"},"qMeta":{"title":"Opportunities","description":"Take a closer look at the opportunity details on this sheet.","_resourcetype":"app.object","_objecttype":"sheet","id":"BMTPUFE","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.509Z","modifiedDate":"2022-01-28T10:44:57.820Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"eAHHJTL","qType":"sheet"},"qMeta":{"title":"Dashboard","description":"View the closed won opportunities as well as the top 10 open opportunities.","_resourcetype":"app.object","_objecttype":"sheet","id":"eAHHJTL","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.267Z","modifiedDate":"2022-01-28T10:42:13.267Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"jTxjwh","qType":"sheet"},"qMeta":{"title":"Revenue by Industry","description":"Explore the revenue by industry.","_resourcetype":"app.object","_objecttype":"sheet","id":"jTxjwh","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.387Z","modifiedDate":"2022-01-28T10:42:13.387Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"XqNVSgJ","qType":"sheet"},"qMeta":{"title":"Trends","description":"Analyze the trends in deal size, win rate, number of opportunities and value.","_resourcetype":"app.object","_objecttype":"sheet","id":"XqNVSgJ","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.415Z","modifiedDate":"2022-01-28T10:42:13.415Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"43da63c7-ff4d-4a12-a474-a60f3a45e5a0","qType":"sheet"},"qMeta":{"title":"Quota","description":"View how sales reps are performing.","_resourcetype":"app.object","_objecttype":"sheet","id":"43da63c7-ff4d-4a12-a474-a60f3a45e5a0","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.446Z","modifiedDate":"2022-01-28T10:42:13.446Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"ftXVdnj","qType":"sheet"},"qMeta":{"title":"Sales Person","description":"Analyze how sales representatives are performing.","_resourcetype":"app.object","_objecttype":"sheet","id":"ftXVdnj","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.473Z","modifiedDate":"2022-01-28T10:42:13.473Z","privileges":["read","update","delete","publish"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"VmBKPRe","type":"combochart","col":0,"row":0,"colspan":11,"rowspan":6}
+{"name":"KsZdtF","type":"combochart","col":13,"row":0,"colspan":11,"rowspan":6}
+{"name":"PZpNp","type":"table","col":0,"row":6,"colspan":24,"rowspan":6}
+{"name":"cyQN","type":"linechart","col":0,"row":0,"colspan":24,"rowspan":6}
+{"name":"KxCWFAH","type":"table","col":0,"row":6,"colspan":4,"rowspan":6}
+{"name":"sssPPc","type":"table","col":13,"row":6,"colspan":4,"rowspan":6}
+{"name":"SZVWF","type":"barchart","col":4,"row":6,"colspan":7,"rowspan":6}
+{"name":"mgwfemp","type":"combochart","col":17,"row":6,"colspan":7,"rowspan":6}
+{"name":"JsZaJ","type":"barchart","col":2,"row":0,"colspan":11,"rowspan":6}
+{"name":"cskJRTJ","type":"barchart","col":13,"row":0,"colspan":11,"rowspan":6}
+{"name":"pqwQm","type":"filterpane","col":0,"row":0,"colspan":2,"rowspan":6}
+{"name":"mMXr","type":"table","col":0,"row":6,"colspan":24,"rowspan":6}
+{"name":"zPryjG","type":"filterpane","col":0,"row":0,"colspan":6,"rowspan":1}
+{"name":"UypMe","type":"linechart","col":7,"row":4,"colspan":8,"rowspan":2}
+{"name":"CsdQJ","type":"linechart","col":16,"row":4,"colspan":8,"rowspan":2}
+{"name":"JmqMMZ","type":"linechart","col":7,"row":10,"colspan":8,"rowspan":2}
+{"name":"VLZtwq","type":"linechart","col":16,"row":10,"colspan":8,"rowspan":2}
+{"name":"UKXFXGp","type":"barchart","col":7,"row":0,"colspan":8,"rowspan":4}
+{"name":"JHZXdP","type":"barchart","col":16,"row":0,"colspan":8,"rowspan":4}
+{"name":"PgzLkT","type":"barchart","col":7,"row":6,"colspan":8,"rowspan":4}
+{"name":"MVzsq","type":"barchart","col":16,"row":6,"colspan":8,"rowspan":4}
+{"name":"rZLJpP","type":"barchart","col":0,"row":4,"colspan":6,"rowspan":5}
+{"name":"bXzbaM","type":"barchart","col":0,"row":9,"colspan":6,"rowspan":3}
+{"name":"5b0c748f-4804-485b-b82e-7d8a76a7feb3","type":"kpi","col":0,"row":1,"colspan":10,"rowspan":5}
+{"name":"e48b35b1-55be-46bf-8ee4-d276c5da3653","type":"linechart","col":0,"row":6,"colspan":24,"rowspan":6}
+{"name":"GqzgV","type":"filterpane","col":0,"row":0,"colspan":10,"rowspan":1}
+{"name":"uarfvN","type":"barchart","col":17,"row":0,"colspan":7,"rowspan":6}
+{"name":"gaNzPe","type":"barchart","col":10,"row":0,"colspan":7,"rowspan":6}
+{"name":"sJNm","type":"barchart","col":0,"row":0,"colspan":11,"rowspan":12}
+{"name":"ueMQ","type":"scatterplot","col":12,"row":0,"colspan":12,"rowspan":12}
+
+DIMENSIONS
+{"qInfo":{"qId":"MkeJHN","qType":"dimension"},"qMeta":{"title":"Account Industry","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"MkeJHN","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.275Z","modifiedDate":"2022-01-28T10:42:13.275Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"f0d4952b-ae08-419c-bc47-e61c8eb45346","qType":"dimension"},"qMeta":{"title":"Opportunity Status","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"f0d4952b-ae08-419c-bc47-e61c8eb45346","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.391Z","modifiedDate":"2022-01-28T10:42:13.391Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"ppARpAB","qType":"dimension"},"qMeta":{"title":"Sales Rep_Opp Number","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"ppARpAB","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.403Z","modifiedDate":"2022-01-28T10:42:13.403Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"0d822027-9d2f-4d75-b068-3f83ea43f132","qType":"dimension"},"qMeta":{"title":"Opportunity Type","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"0d822027-9d2f-4d75-b068-3f83ea43f132","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.408Z","modifiedDate":"2022-01-28T10:42:13.408Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"4977d357-c8f0-4422-88d1-704709cb9427","qType":"dimension"},"qMeta":{"title":"Opportunity Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"4977d357-c8f0-4422-88d1-704709cb9427","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.408Z","modifiedDate":"2022-01-28T10:42:13.408Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"0e81026a-0fe5-4406-af76-0926e8041446","qType":"dimension"},"qMeta":{"title":"Account Rep Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"0e81026a-0fe5-4406-af76-0926e8041446","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.412Z","modifiedDate":"2022-01-28T10:42:13.412Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"KSQYYT","qType":"dimension"},"qMeta":{"title":"Year Quarter","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"KSQYYT","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.443Z","modifiedDate":"2022-01-28T10:42:13.443Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"AJCUgc","qType":"dimension"},"qMeta":{"title":"City","description":"Account City","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"AJCUgc","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.455Z","modifiedDate":"2022-01-28T10:42:13.455Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"c60b2127-67a7-484a-91d9-fc5913231810","qType":"dimension"},"qMeta":{"title":"Sales Rep","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"c60b2127-67a7-484a-91d9-fc5913231810","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.466Z","modifiedDate":"2022-01-28T10:42:13.466Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"rFZSpm","qType":"dimension"},"qMeta":{"title":"Year","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"rFZSpm","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.475Z","modifiedDate":"2022-01-28T10:42:13.475Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"Vnqzv","qType":"dimension"},"qMeta":{"title":"Country","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"Vnqzv","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.503Z","modifiedDate":"2022-01-28T10:42:13.503Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"WrSxBJb","qType":"dimension"},"qMeta":{"title":"Opportunity Stage","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"WrSxBJb","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.503Z","modifiedDate":"2022-01-28T10:42:13.503Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"feb8fd99-25d0-46e8-a902-562b249d17e2","qType":"dimension"},"qMeta":{"title":"Product Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"feb8fd99-25d0-46e8-a902-562b249d17e2","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.510Z","modifiedDate":"2022-01-28T10:42:13.510Z","privileges":["read","update","delete","publish"]},"qData":[]}
+
+MEASURES
+{"qInfo":{"qId":"kRqBsK","qType":"measure"},"qMeta":{"title":"Opportunity Amount - Won (in Millions)","description":"Won Opportunity Amount (USD)","tags":["Amount","Opps","USD"],"_resourcetype":"app.object","_objecttype":"measure","id":"kRqBsK","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.388Z","modifiedDate":"2022-01-28T10:42:13.388Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"Fphmj","qType":"measure"},"qMeta":{"title":"# of Customers","description":"Number of Customers closed Won","tags":["Customers","Won"],"_resourcetype":"app.object","_objecttype":"measure","id":"Fphmj","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.442Z","modifiedDate":"2022-01-28T10:42:13.442Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"pGktAFJ","qType":"measure"},"qMeta":{"title":"Avg Won Opportunity Amount","description":"","tags":["Amount","Opps"],"_resourcetype":"app.object","_objecttype":"measure","id":"pGktAFJ","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.445Z","modifiedDate":"2022-01-28T10:42:13.445Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"GvCHhEQ","qType":"measure"},"qMeta":{"title":"Win Probability %","description":"Opportuninity Win Chance","tags":["Opps","win"],"_resourcetype":"app.object","_objecttype":"measure","id":"GvCHhEQ","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.462Z","modifiedDate":"2022-01-28T10:42:13.462Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"WYFGEd","qType":"measure"},"qMeta":{"title":"Revenue","description":"Revenue adjusted with Opportunity Probability","tags":["Opps","Revenue"],"_resourcetype":"app.object","_objecttype":"measure","id":"WYFGEd","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.466Z","modifiedDate":"2022-01-28T10:42:13.466Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"QPPpG","qType":"measure"},"qMeta":{"title":"Quota","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"QPPpG","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.467Z","modifiedDate":"2022-01-28T10:42:13.467Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"sSjYpM","qType":"measure"},"qMeta":{"title":"Opportunity Amount - Open (in Millions)","description":"","tags":["Amount","Open","Opps"],"_resourcetype":"app.object","_objecttype":"measure","id":"sSjYpM","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.470Z","modifiedDate":"2022-01-28T10:42:13.470Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"djmLRb","qType":"measure"},"qMeta":{"title":"# of Accounts","description":"Number of Accounts","tags":["Accounts"],"_resourcetype":"app.object","_objecttype":"measure","id":"djmLRb","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.470Z","modifiedDate":"2022-01-28T10:42:13.470Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"nwCmves","qType":"measure"},"qMeta":{"title":"# of Opps","description":"Number of opportunities","tags":["Opps"],"_resourcetype":"app.object","_objecttype":"measure","id":"nwCmves","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.471Z","modifiedDate":"2022-01-28T10:42:13.471Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"GuJSApA","qType":"measure"},"qMeta":{"title":"# of Opps Won","description":"Number of opportunities won","tags":["Opps Won"],"_resourcetype":"app.object","_objecttype":"measure","id":"GuJSApA","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.473Z","modifiedDate":"2022-01-28T10:42:13.473Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"rpJjGF","qType":"measure"},"qMeta":{"title":"Avg Revenue per Opp","description":"Average Revenue per opportunity adjusted with Win probability USD","tags":["Opps","Revenue","USD"],"_resourcetype":"app.object","_objecttype":"measure","id":"rpJjGF","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.474Z","modifiedDate":"2022-01-28T10:42:13.474Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"TWXTd","qType":"measure"},"qMeta":{"title":"# of Opps Open","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"TWXTd","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.474Z","modifiedDate":"2022-01-28T10:42:13.474Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"tUGKzY","qType":"measure"},"qMeta":{"title":"Opportunity Amount (in Millions)","description":"","tags":["Amount","Opps"],"_resourcetype":"app.object","_objecttype":"measure","id":"tUGKzY","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.503Z","modifiedDate":"2022-01-28T10:42:13.503Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"euVkpz","qType":"measure"},"qMeta":{"title":"Win Rate","description":"Number of Won opps vs Total number Closed opps","tags":["Opps","Won"],"_resourcetype":"app.object","_objecttype":"measure","id":"euVkpz","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-01-28T10:42:13.509Z","modifiedDate":"2022-01-28T10:42:13.509Z","privileges":["read","update","delete","publish"]},"qData":[]}
+
+VARIABLES
+{"qName":"vTodaysDate","qDefinition":"3\/12\/2016","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ab0c74b7-fffd-44c6-ad12-8b4ee8a20d3f","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vPreviousQ","qDefinition":"Q4-15","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6b377f47-2146-4968-bd05-fb68c2680020","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vCurrency","qDefinition":"'[ExRate_' & CURRENCY &']'","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"f33f9ef9-cbed-4bdb-9102-686213cc58dc","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vFutureQ","qDefinition":"Q2-16","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"31e38346-56c7-44b5-87e0-f8c1bbf8d694","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vCurrentQ","qDefinition":"Q1-16","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"832bad43-3c62-49a8-9175-4b4b7f2ade13","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vPrevQ","qDefinition":"=if(Ceil(Month(vTodaysDate)\/3)=1,Right(Year(vTodaysDate),2)-1,Right(Year(vTodaysDate),2))& if(Ceil(Month(vTodaysDate)\/3)=1,4,Ceil(Month(vTodaysDate)\/3)-1)","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"5169a008-5c97-493a-9471-4fcf5de5ba2f","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vFutQ","qDefinition":"=num(if(Ceil(Month(vTodaysDate)\/3)=4,Right(Year(vTodaysDate),2)+1,Right(Year(vTodaysDate),2)) & if(Ceil(Month(vTodaysDate)\/3)=4,1,Ceil(Month(vTodaysDate)\/3)+1) )","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"e069c752-0599-4be8-b033-21c98409046d","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":59,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":7,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":7,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":5,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":44,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"AccountId","qCardinal":8701,"qTags":["$key","$ascii","$text"],"qSrcTables":["account","opportunity"]}
+{"qName":"Account Rep Name","qCardinal":8644,"qTags":[],"qSrcTables":["account"]}
+{"qName":"Account Type","qCardinal":5,"qTags":["$ascii","$text"],"qSrcTables":["account"]}
+{"qName":"Account Billing Street","qCardinal":8462,"qTags":["$text"],"qSrcTables":["account"]}
+{"qName":"Account Billing City","qCardinal":3537,"qTags":["$text"],"qSrcTables":["account"]}
+{"qName":"Account Billing State","qCardinal":740,"qTags":[],"qSrcTables":["account"]}
+{"qName":"Account Billing Zip","qCardinal":6562,"qTags":["$text"],"qSrcTables":["account"]}
+{"qName":"Account Billing Country","qCardinal":10,"qTags":["$ascii","$text"],"qSrcTables":["account"]}
+{"qName":"Account Industry","qCardinal":338,"qTags":["$text"],"qSrcTables":["account"]}
+{"qName":"OpportunityId","qCardinal":13253,"qTags":["$key","$ascii","$text"],"qSrcTables":["opportunity","opportunitylineitem"]}
+{"qName":"OpportunityIdCount","qCardinal":13229,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity_Count","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Name","qCardinal":13229,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Customer Account Id","qCardinal":3797,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Stage","qCardinal":7,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Amount","qCardinal":6671,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_ARS","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_AUD","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_BRL","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_CAD","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_CHF","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_DKK","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_EUR","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_GBP","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_HKD","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_INR","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_JPY","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_MXN","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_NOK","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_SEK","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_SGD","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"ExRate_USD","qCardinal":6,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Probability","qCardinal":17,"qTags":["$numeric"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close Date","qCardinal":847,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close Month","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close Year","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close Month\/Year","qCardinal":36,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close Quarter","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close Quarter\/Year","qCardinal":12,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Close YearQuarter","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Type","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Is Closed?","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Is Won?","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Status","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Open_Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Closed_Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Won\/Lost","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Won_Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Triphase","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["opportunity"]}
+{"qName":"Opportunity Forecast Category","qCardinal":5,"qTags":["$ascii","$text"],"qSrcTables":["opportunity"]}
+{"qName":"User Id","qCardinal":388,"qTags":["$key","$ascii","$text"],"qSrcTables":["opportunity","user"]}
+{"qName":"Opportunity Created Date","qCardinal":13228,"qTags":["$numeric","$timestamp"],"qSrcTables":["opportunity"]}
+{"qName":"PricebookEntryId","qCardinal":183,"qTags":["$key","$ascii","$text"],"qSrcTables":["opportunitylineitem","pricebookentry"]}
+{"qName":"Opportunity Qty","qCardinal":262,"qTags":["$numeric"],"qSrcTables":["opportunitylineitem"]}
+{"qName":"Product2Id","qCardinal":11,"qTags":["$key","$ascii","$text"],"qSrcTables":["pricebookentry","product"]}
+{"qName":"Product Name","qCardinal":10,"qTags":["$ascii","$text"],"qSrcTables":["product"]}
+{"qName":"User Full Name","qCardinal":388,"qTags":["$ascii","$text"],"qSrcTables":["user"]}
+{"qName":"Quota","qCardinal":281,"qTags":["$numeric"],"qSrcTables":["user"]}
+{"qName":"CURRENCY","qCardinal":16,"qTags":["$ascii","$text"],"qSrcTables":["oppname"]}
