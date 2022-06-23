@@ -1,0 +1,28 @@
+
+SHEETS
+{"qInfo":{"qId":"f4901444-8b0e-480f-8224-1f52a69548a0","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"f4901444-8b0e-480f-8224-1f52a69548a0","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-06-08T15:34:48.844Z","modifiedDate":"2022-06-08T20:20:21.423Z","privileges":["read","update","delete","publish"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"hMzjsHj","type":"table","col":10,"row":0,"colspan":14,"rowspan":6,"bounds":{"y":0,"x":41.66666666666667,"width":58.333333333333336,"height":50}}
+{"name":"DtAnSq","type":"barchart","col":0,"row":0,"colspan":10,"rowspan":9,"bounds":{"y":0,"x":0,"width":41.66666666666667,"height":75}}
+{"name":"psfkWk","type":"auto-chart","col":12,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":50,"width":50,"height":50}}
+
+DIMENSIONS
+
+MEASURES
+{"qInfo":{"qId":"nqfdHn","qType":"measure"},"qMeta":{"title":"Test","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"nqfdHn","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-06-08T20:16:41.339Z","modifiedDate":"2022-06-08T20:17:51.363Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"LVFdSb","qType":"measure"},"qMeta":{"title":"Maturity score","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"LVFdSb","approved":false,"published":false,"owner":"auth0|763f637f15d88fe64d40773c68ae258f5ed099e69436be138353a65b1ea7c2e6","ownerId":"BlVarUAUM9I0ei3MmKMejlDaF1sKPnN5","createdDate":"2022-06-08T17:26:11.281Z","modifiedDate":"2022-06-08T17:47:21.747Z","privileges":["read","update","delete","publish"]},"qData":[]}
+
+VARIABLES
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":4,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":4,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Company","qCardinal":91,"qTags":["$ascii","$text"],"qSrcTables":["Companies"]}
+{"qName":"Industry","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Companies"]}
+{"qName":"Company size","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Companies"]}
+{"qName":"Maturity score","qCardinal":74,"qTags":["$numeric"],"qSrcTables":["Companies"]}
